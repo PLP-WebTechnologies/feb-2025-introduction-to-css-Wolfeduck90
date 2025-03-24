@@ -1,4 +1,4 @@
-/* ID Selector */
+/* 1. ID Selector */
 #page-header {
     background-color: #e2e9a5;
     text-align: center;
@@ -6,7 +6,7 @@
     border-bottom: 2px solid #5c8d2a;
 }
 
-/* Class Selector */
+/* 2. Class Selector, different font */
 .content {
     font-family: 'Arial, sans-serif';
     color: #d97c30;
@@ -17,12 +17,12 @@
     border-radius: 8px;
 }
 
-/* Tag Selector */
+/* 3. Tag Selector */
 p {
     margin: 15px 0;
 }
 
-/* Image Styling */
+/* Image Styling, margin, padding and border */
 .styled-image {
     max-width: 100%;
     height: auto;
