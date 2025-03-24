@@ -1,0 +1,41 @@
+/* ID Selector */
+#page-header {
+    background-color: #e2e9a5;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #5c8d2a;
+}
+
+/* Class Selector */
+.content {
+    font-family: 'Arial, sans-serif';
+    color: #d97c30;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #f7d74b;
+    border-radius: 8px;
+}
+
+/* Tag Selector */
+p {
+    margin: 15px 0;
+}
+
+/* Image Styling */
+.styled-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #5c8d2a;
+    border-radius: 10px;
+}
+
+/* Footer Styling */
+.footer-note {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin-top: 30px;
+}
